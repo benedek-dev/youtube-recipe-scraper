@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+env/
+venv/
+.env
+*.sqlite3
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Output or large files
+recetas_output/
+security_backup/
+recetas_bebepiskota/
+*.pdf
+*.zip
+*.mp4
+*.png
+*.jpp
+*.jpeg
+*.pdf
+pdf2.py
